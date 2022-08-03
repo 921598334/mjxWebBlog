@@ -98,7 +98,7 @@ module.exports = {
     "author": "",
     //正文中的头像
     "authorAvatar": "/qiyana1.jpg",
-    "record": "xxxx",
+    "record": "个人博客",
     "startYear": "2017"
   },
   "markdown": {
