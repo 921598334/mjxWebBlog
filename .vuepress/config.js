@@ -8,7 +8,7 @@ module.exports = {
       {
         "rel": "icon",
         //网页title上的头像
-        "href": "/qiyana1.jpg"
+        "href": "/avatar2.png"
       }
     ],
     [
@@ -81,6 +81,7 @@ module.exports = {
         "title": "智能结构与控制实验室",
         "desc": "老东家.",
         "email": "1156743527@qq.com",
+        "avatar": "http://www.ssclab.cn/static/templets/css/logo.png",
         "link": "https://www.baidu.com"
       },
       {
@@ -91,15 +92,15 @@ module.exports = {
       }
     ],
     //导航栏上的头像
-    "logo": "/qiyana1.jpg",
+    "logo": "/avatar2.png",
     "search": true,
     "searchMaxSuggestions": 10,
     "lastUpdated": "Last Updated",
     "author": "",
     //正文中的头像
-    "authorAvatar": "/qiyana1.jpg",
+    "authorAvatar": "/avatar1.png",
     "record": "个人博客",
-    "startYear": "2017"
+    "startYear": "2022"
   },
   "markdown": {
     "lineNumbers": true
